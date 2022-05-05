@@ -1,4 +1,4 @@
-mod conditionals;
+mod loops;
 
 fn main() {
     // eric::run();
@@ -7,5 +7,5 @@ fn main() {
 
     // vectors::vectors_smiley();
 
-    conditionals::run_func();
+    loops::start_loop();
 }
