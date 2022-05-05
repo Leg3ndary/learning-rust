@@ -1,9 +1,11 @@
-mod vectors;
+mod conditionals;
 
 fn main() {
     // eric::run();
     // certain_types::run_thingy();
     // tuples_n_arrays::run();
 
-    vectors::vectors_smiley();
+    // vectors::vectors_smiley();
+
+    conditionals::run_func();
 }
