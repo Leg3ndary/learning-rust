@@ -1,4 +1,4 @@
-mod loops;
+mod functions;
 
 fn main() {
     // eric::run();
@@ -7,5 +7,6 @@ fn main() {
 
     // vectors::vectors_smiley();
 
-    loops::start_loop();
+    //loops::start_loop();
+    functions::check_fizzbuzz();
 }
