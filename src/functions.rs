@@ -9,3 +9,7 @@ pub fn check_fizzbuzz(number: &i32) {
         println!("{}", number);
     }
 }
+
+pub fn multiply_nums(num1: i32, num2: i32) -> i32 {
+    num1 * num2
+}
